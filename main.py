@@ -43,7 +43,7 @@ def Init():
             exit()
 
 
-chat_list = ['i am Minders','hello siir','hello', 'gm','lfg','good morning','lets go','gogogo','where are u from?','good project','want to play with me?','nice','night all','nice to meet you','we can do it','are you watch anime?','i like you all','let's go MINDers','Encrypted Data Lake','Zero Trust AI','Binance Labs']
+chat_list = ['i am Minders','hello siir','hello', 'gm','lfg','good morning','lets go','gogogo','where are u from?','good project','want to play with me?','nice','night all','nice to meet you','we can do it','are you watch anime?','i like you all','lets go MINDers','Encrypted Data Lake','Zero Trust AI','Binance Labs']
 
 os.system('cls')
 result = pyfiglet.figlet_format("""Discord Auto Random Chat""", font = "graceful"  )
